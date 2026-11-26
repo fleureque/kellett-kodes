@@ -1,0 +1,9 @@
+.page {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+.page_header {
+    position: sticky;
+    top: 0;
+}
