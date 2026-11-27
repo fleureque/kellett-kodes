@@ -75,7 +75,7 @@ p {
 
 .half_split {
   display: inline-block;
-  width: 500px;
+  width: 50%;
 }
 
 .three_quart_split {
@@ -91,5 +91,17 @@ p {
 
 .half_img {
   width: 300px;
+}
+
+.renpy_section {
+  background-color: #001b3d;
+  padding: 10%;
+  align-items: center;
+}
+
+.godot_section {
+  background-color: #780228;
+  padding: 10%;
+  align-items: center;
 }
 
