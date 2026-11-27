@@ -59,3 +59,12 @@ p {
 .header_div {
   background-color: #ab77af;
 }
+
+.half_split {
+  display: inline-block;
+  width: 650px;
+}
+
+.half_img {
+  width: 500px;
+}
