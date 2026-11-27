@@ -7,3 +7,38 @@
     position: sticky;
     top: 0;
 }
+
+@font-face {
+  font-family: armiesDisplay;
+  src: url(fonts/armies_display.ttf); 
+}
+
+
+@font-face {
+  font-family: garet;
+  src: url(fonts/garet_book.ttf); 
+  font-weight: regular;
+}
+
+@font-face {
+  font-family: garet;
+  src: url(fonts/garet_heavy.ttf); 
+  font-weight: heavy;
+}
+
+h1 {
+    font-family: armiesDisplay;
+    font-size: 73px;
+    color: #d6e8f7;
+}
+
+p {
+    font-family: garet;
+    font-weight: regular;
+    font-size: 25px;
+    color: #d6e8f7;
+}
+
+div {
+  background-color: #001b3d;
+}
