@@ -6,6 +6,7 @@
 .page_header {
     position: sticky;
     top: 0;
+    
 }
 
 @font-face {
@@ -43,6 +44,7 @@ p {
 .div_blue {
   background-color: #001b3d;
   color: #d6e8f7;
+  
 }
 
 .div_red {
