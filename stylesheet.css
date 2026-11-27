@@ -45,14 +45,24 @@ p {
     margin: 0%;
 }
 
-.div_blue {
+.title_page {
+  padding: 10%;
   background-color: #001b3d;
   color: #d6e8f7;
-  
 }
 
-.div_red {
+.about_us {
+  padding-top: 10%;
+  padding-bottom: 10%;
+  padding-left: 5%;
   background-color: #780228;
+  color: #d6e8f7;
+}
+
+.contact_us {
+  text-align: center;
+  padding: 10%;
+  background-color: #001b3d;
   color: #d6e8f7;
 }
 
@@ -62,9 +72,21 @@ p {
 
 .half_split {
   display: inline-block;
-  width: 650px;
+  width: 500px;
+}
+
+.three_quart_split {
+  display: inline-block;
+  width: 750px;
+}
+
+.quart_split {
+  display: inline-block;
+  width: 600px;
+  align-items: center;
 }
 
 .half_img {
-  width: 500px;
+  width: 300px;
 }
+
