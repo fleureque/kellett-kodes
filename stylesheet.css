@@ -15,30 +15,41 @@
 
 
 @font-face {
-  font-family: garet;
+  font-family: Garet;
   src: url(fonts/garet_book.ttf); 
-  font-weight: regular;
+  font-weight: normal;
 }
 
 @font-face {
-  font-family: garet;
+  font-family: Garet;
   src: url(fonts/garet_heavy.ttf); 
-  font-weight: heavy;
+  font-weight: bold;
 }
 
 h1 {
     font-family: armiesDisplay;
     font-size: 73px;
-    color: #d6e8f7;
+    padding: 0%;
+    margin: 0%;
 }
 
 p {
-    font-family: garet;
-    font-weight: regular;
+    font-family: Garet;
     font-size: 25px;
-    color: #d6e8f7;
+    padding: 0%;
+    margin: 0%;
 }
 
-div {
+.div_blue {
   background-color: #001b3d;
+  color: #d6e8f7;
+}
+
+.div_red {
+  background-color: #780228;
+  color: #d6e8f7;
+}
+
+.header_div {
+  background-color: #ab77af;
 }
