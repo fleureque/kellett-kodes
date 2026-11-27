@@ -10,7 +10,6 @@ body {
 .page_header {
     position: sticky;
     top: 0;
-    
 }
 
 @font-face {
@@ -68,6 +67,10 @@ p {
 
 .header_div {
   background-color: #ab77af;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
 }
 
 .half_split {
