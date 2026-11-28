@@ -55,12 +55,13 @@ p {
   padding-bottom: 20%;
   padding-left: 5%;
   background-color: #780228;
-  color: #d6e8f7;
+  color:#001b3d;
 }
 
 .contact_us {
   text-align: center;
-  padding: 10%;
+  padding-top: 10%;
+  padding-bottom: 40%;
   background-color: #001b3d;
   color: #d6e8f7;
 }
@@ -75,8 +76,7 @@ p {
 
 .half_split {
   display: inline-block;
-  width: 50%;
-  justify-items: center;
+  width: 40%;
   text-align: center;
 }
 
