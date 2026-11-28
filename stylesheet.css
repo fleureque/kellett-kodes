@@ -76,7 +76,13 @@ p {
 
 .half_split {
   display: inline-block;
-  width: 40%;
+  width: 50%;
+  text-align: center;
+}
+
+.contact_us_split {
+  display: inline-block;
+  width: 30%;
   text-align: center;
 }
 
@@ -103,6 +109,7 @@ p {
   padding: 10%;
   align-items: center;
   justify-items: center;
+  color: #edf0f2;
 }
 
 .godot_section {
@@ -110,5 +117,6 @@ p {
   padding: 10%;
   align-items: center;
   justify-items: center;
+  color: #edf0f2;
 }
 
