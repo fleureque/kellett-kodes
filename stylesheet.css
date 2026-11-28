@@ -76,17 +76,22 @@ p {
 .half_split {
   display: inline-block;
   width: 50%;
+  justify-items: center;
+  text-align: center;
 }
 
 .three_quart_split {
   display: inline-block;
   width: 750px;
+  justify-items: center;
 }
 
 .quart_split {
   display: inline-block;
   width: 600px;
   align-items: center;
+  justify-items: center;
+  text-align: center;
 }
 
 .half_img {
@@ -97,11 +102,13 @@ p {
   background-color: #001b3d;
   padding: 10%;
   align-items: center;
+  justify-items: center;
 }
 
 .godot_section {
   background-color: #780228;
   padding: 10%;
   align-items: center;
+  justify-items: center;
 }
 
